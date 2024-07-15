@@ -1,0 +1,35 @@
+
+
+body {
+  background-color: white;
+  color: #141414;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.menu-container {
+}
+.menu-list {
+}
+.list-item {
+}
+.hero-container {
+}
+.hero-image {
+  width: 500px;
+  height: 400px;
+}
+
+
+table{
+  border-collapse: collapse;
+}
+th, td,tr{
+  border: 2px solid black;
+}
